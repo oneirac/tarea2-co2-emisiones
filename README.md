@@ -155,7 +155,7 @@ tarea2-co2-emisiones/
 ## 👥 Equipo
 
 - **Nombre de integrantes**:  jasandovalv, sofialaniss, danteaguirreb, oneirac
-- **Correos**: jaisandovalv@udd.cl, S.alanisalvarez@gmail.com , d.aguirreb@udd.cl, osvaldoneira@gmail.com
+- **Correos**: jaisandovalv@udd.cl, s.alanisa@udd.cl , d.aguirreb@udd.cl, oneirac@udd.cl
 - **Fecha de entrega**: 23 de noviembre, 2025
 
 ## 📚 Referencias

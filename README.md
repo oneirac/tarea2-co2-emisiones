@@ -13,7 +13,7 @@ La aplicación permite:
 ## 🌐 Links de Entrega
 
 - **Repositorio GitHub**: https://github.com/oneirac/tarea2-co2-emisiones
-- **Aplicación Streamlit Cloud**: [Será actualizado después del deploy]
+- **Aplicación Streamlit Cloud**: https://tarea2-co2-emisiones-2vo2i7gbaxrvly9q5v3nv4.streamlit.app/
 
 ## 📋 Requisitos Mínimos
 
